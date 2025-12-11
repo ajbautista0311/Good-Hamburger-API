@@ -128,4 +128,4 @@ dotnet watch run --project src/GoodHamburger.API
 | Método | Endpoint | Descripción |
 |--------|----------|-------------|
 | `GET` | `/health` | Retorna el estado actual del servicio |
-|
+
