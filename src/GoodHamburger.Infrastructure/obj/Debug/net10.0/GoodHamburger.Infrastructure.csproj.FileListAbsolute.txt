@@ -1,0 +1,17 @@
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\bin\Debug\net10.0\GoodHamburger.Infrastructure.deps.json
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\bin\Debug\net10.0\GoodHamburger.Infrastructure.runtimeconfig.json
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\bin\Debug\net10.0\GoodHamburger.Infrastructure.dll
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\bin\Debug\net10.0\GoodHamburger.Infrastructure.pdb
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\bin\Debug\net10.0\GoodHamburger.Domain.dll
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\bin\Debug\net10.0\GoodHamburger.Domain.pdb
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\obj\Debug\net10.0\GoodHamburger.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\obj\Debug\net10.0\GoodHamburger.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\obj\Debug\net10.0\GoodHamburger.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\obj\Debug\net10.0\GoodHamburger.Infrastructure.AssemblyInfo.cs
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\obj\Debug\net10.0\GoodHamburger.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\obj\Debug\net10.0\GoodHamb.5C53B714.Up2Date
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\obj\Debug\net10.0\GoodHamburger.Infrastructure.dll
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\obj\Debug\net10.0\refint\GoodHamburger.Infrastructure.dll
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\obj\Debug\net10.0\GoodHamburger.Infrastructure.pdb
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\obj\Debug\net10.0\GoodHamburger.Infrastructure.genruntimeconfig.cache
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Infrastructure\obj\Debug\net10.0\ref\GoodHamburger.Infrastructure.dll

@@ -1,0 +1,15 @@
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Application\bin\Debug\net10.0\GoodHamburger.Application.deps.json
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Application\bin\Debug\net10.0\GoodHamburger.Application.dll
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Application\bin\Debug\net10.0\GoodHamburger.Application.pdb
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Application\bin\Debug\net10.0\GoodHamburger.Domain.dll
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Application\bin\Debug\net10.0\GoodHamburger.Domain.pdb
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Application\obj\Debug\net10.0\GoodHamburger.Application.csproj.AssemblyReference.cache
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Application\obj\Debug\net10.0\GoodHamburger.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Application\obj\Debug\net10.0\GoodHamburger.Application.AssemblyInfoInputs.cache
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Application\obj\Debug\net10.0\GoodHamburger.Application.AssemblyInfo.cs
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Application\obj\Debug\net10.0\GoodHamburger.Application.csproj.CoreCompileInputs.cache
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Application\obj\Debug\net10.0\GoodHamb.630BA540.Up2Date
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Application\obj\Debug\net10.0\GoodHamburger.Application.dll
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Application\obj\Debug\net10.0\refint\GoodHamburger.Application.dll
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Application\obj\Debug\net10.0\GoodHamburger.Application.pdb
+C:\Users\anubi\OneDrive\Desktop\prueba\GoodHamburger\src\GoodHamburger.Application\obj\Debug\net10.0\ref\GoodHamburger.Application.dll
