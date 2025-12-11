@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ﻿# 🍔 Good Hamburger API
 
 API REST para sistema de pedidos de hamburguesas construida con **Clean Architecture**, **.NET 10**, **SQL Server**, **Redis Cache** y **Docker**.
@@ -65,8 +64,7 @@ GoodHamburger/
 ### Opción 1: Con Docker (Recomendado)
 ```bash
 # 1. Clonar el repositorio
-git clone <repository-url> //Se envia como archivo comprimido, no como git,
-por lo que se descomprime el archivo y se navega a la carpeta descomprimida
+git clone https://github.com/ajbautista0311/Good-Hamburger-API
 cd GoodHamburger
 
 # 2. Construir y ejecutar todos los servicios
@@ -261,5 +259,3 @@ dotnet watch run --project src/GoodHamburger.API
 | Método | Endpoint | Descripción |
 |--------|----------|-------------|
 | `GET` | `/health` | Retorna el estado actual del servicio |
-
->>>>>>> 6490cf906d748747605984587395b5662b3e943d
